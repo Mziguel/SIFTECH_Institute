@@ -10046,7 +10046,7 @@ h6,
     width: 100%;              /* Couvrir toute la largeur */
     height: 100%;             /* Couvrir toute la hauteur */
     background: rgba(255, 255, 255, 0.2); /* Couche blanche à demi-transparente */
-    transition: opacity 0.1s ease; /* Transition douce */
+    transition: opacity 0.1s linear; /* Transition douce */
     border-radius: 10%;
 }
 /* Afficher le titre et les détails lors du survol */
